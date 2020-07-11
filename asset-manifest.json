@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/iCart/static/css/main.9f9c4cf5.chunk.css",
-    "main.js": "/iCart/static/js/main.ca007167.chunk.js",
-    "main.js.map": "/iCart/static/js/main.ca007167.chunk.js.map",
+    "main.js": "/iCart/static/js/main.c66b8163.chunk.js",
+    "main.js.map": "/iCart/static/js/main.c66b8163.chunk.js.map",
     "runtime-main.js": "/iCart/static/js/runtime-main.ec76a3f3.js",
     "runtime-main.js.map": "/iCart/static/js/runtime-main.ec76a3f3.js.map",
     "static/js/2.452401c8.chunk.js": "/iCart/static/js/2.452401c8.chunk.js",
     "static/js/2.452401c8.chunk.js.map": "/iCart/static/js/2.452401c8.chunk.js.map",
     "index.html": "/iCart/index.html",
-    "precache-manifest.55590dca33d0ab1e710044509ed63446.js": "/iCart/precache-manifest.55590dca33d0ab1e710044509ed63446.js",
+    "precache-manifest.60d0443f254bea93aba086a61f872417.js": "/iCart/precache-manifest.60d0443f254bea93aba086a61f872417.js",
     "service-worker.js": "/iCart/service-worker.js",
     "static/css/main.9f9c4cf5.chunk.css.map": "/iCart/static/css/main.9f9c4cf5.chunk.css.map",
     "static/js/2.452401c8.chunk.js.LICENSE.txt": "/iCart/static/js/2.452401c8.chunk.js.LICENSE.txt",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.ec76a3f3.js",
     "static/js/2.452401c8.chunk.js",
     "static/css/main.9f9c4cf5.chunk.css",
-    "static/js/main.ca007167.chunk.js"
+    "static/js/main.c66b8163.chunk.js"
   ]
 }

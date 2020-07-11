@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ebce9f8c51aed7fad8314e8f89a4d70",
+    "revision": "a4a13d72afe6d6246c8a92873f1b1256",
     "url": "/iCart/index.html"
   },
   {
-    "revision": "41d4002562a67ca05b3f",
+    "revision": "4c5fd84422800b3b2033",
     "url": "/iCart/static/css/main.9f9c4cf5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iCart/static/js/2.452401c8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "41d4002562a67ca05b3f",
-    "url": "/iCart/static/js/main.ca007167.chunk.js"
+    "revision": "4c5fd84422800b3b2033",
+    "url": "/iCart/static/js/main.c66b8163.chunk.js"
   },
   {
     "revision": "a9d182ae2d47208022a1",

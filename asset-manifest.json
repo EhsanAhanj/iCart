@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/iCart/static/css/main.9f9c4cf5.chunk.css",
+    "main.js": "/iCart/static/js/main.ca007167.chunk.js",
+    "main.js.map": "/iCart/static/js/main.ca007167.chunk.js.map",
+    "runtime-main.js": "/iCart/static/js/runtime-main.ec76a3f3.js",
+    "runtime-main.js.map": "/iCart/static/js/runtime-main.ec76a3f3.js.map",
+    "static/js/2.452401c8.chunk.js": "/iCart/static/js/2.452401c8.chunk.js",
+    "static/js/2.452401c8.chunk.js.map": "/iCart/static/js/2.452401c8.chunk.js.map",
+    "index.html": "/iCart/index.html",
+    "precache-manifest.55590dca33d0ab1e710044509ed63446.js": "/iCart/precache-manifest.55590dca33d0ab1e710044509ed63446.js",
+    "service-worker.js": "/iCart/service-worker.js",
+    "static/css/main.9f9c4cf5.chunk.css.map": "/iCart/static/css/main.9f9c4cf5.chunk.css.map",
+    "static/js/2.452401c8.chunk.js.LICENSE.txt": "/iCart/static/js/2.452401c8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/iCart/static/media/IRANSansWeb(FaNum)_UltraLight.f4aa344c.woff2",
+    "static/media/credit-card-svgrepo-com(0).svg": "/iCart/static/media/credit-card-svgrepo-com(0).675f79cc.svg",
+    "static/media/credit-card-svgrepo-com(1).svg": "/iCart/static/media/credit-card-svgrepo-com(1).1dae33ab.svg",
+    "static/media/credit-card-svgrepo-com(2).svg": "/iCart/static/media/credit-card-svgrepo-com(2).8b0e433d.svg",
+    "static/media/credit-card-svgrepo-com(3).svg": "/iCart/static/media/credit-card-svgrepo-com(3).0da73d7d.svg",
+    "static/media/credit-card-svgrepo-com(4).svg": "/iCart/static/media/credit-card-svgrepo-com(4).b9d63f41.svg",
+    "static/media/credit-card-svgrepo-com(5).svg": "/iCart/static/media/credit-card-svgrepo-com(5).eb0f9cd1.svg",
+    "static/media/credit-card-svgrepo-com(6).svg": "/iCart/static/media/credit-card-svgrepo-com(6).5a58a625.svg",
+    "static/media/credit-card-svgrepo-com(7).svg": "/iCart/static/media/credit-card-svgrepo-com(7).cd34c4eb.svg",
+    "static/media/credit-card-svgrepo-com(8).svg": "/iCart/static/media/credit-card-svgrepo-com(8).87a0a70a.svg",
+    "static/media/credit-card-svgrepo-com(9).svg": "/iCart/static/media/credit-card-svgrepo-com(9).b94ca2fe.svg",
+    "static/media/logosolo.svg": "/iCart/static/media/logosolo.0db5b1c1.svg",
+    "static/media/textlogo.svg": "/iCart/static/media/textlogo.6bca66a6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec76a3f3.js",
+    "static/js/2.452401c8.chunk.js",
+    "static/css/main.9f9c4cf5.chunk.css",
+    "static/js/main.ca007167.chunk.js"
+  ]
+}

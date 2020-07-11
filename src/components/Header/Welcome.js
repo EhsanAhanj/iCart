@@ -1,7 +1,6 @@
 import React from "react";
 
 import "./Welcome.css";
-import About from "./About";
 
 import CartSvg0 from "../../assets/images/credit-card-svgrepo-com(0).svg";
 import CartSvg1 from "../../assets/images/credit-card-svgrepo-com(1).svg";
@@ -57,9 +56,6 @@ const Welcome = ({ element }) => {
           <li></li>
         </ul>
       </div>
-      <About />
-      <About />
-      <About />
     </main>
   );
 };

@@ -17,7 +17,8 @@ const Welcome = ({ element }) => {
   return (
     <main>
       <div className="context">
-        <h1>کانتنت مهم اینجا</h1>{" "}
+        <h1>کانتنت مهم اینجا </h1>
+        <h1>ورود </h1>
       </div>
 
       <div ref={element} className="area">

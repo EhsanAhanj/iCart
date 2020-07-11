@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/iCart/static/css/main.9f9c4cf5.chunk.css",
-    "main.js": "/iCart/static/js/main.c66b8163.chunk.js",
-    "main.js.map": "/iCart/static/js/main.c66b8163.chunk.js.map",
+    "main.css": "/iCart/static/css/main.f6c1ff45.chunk.css",
+    "main.js": "/iCart/static/js/main.a8e7c991.chunk.js",
+    "main.js.map": "/iCart/static/js/main.a8e7c991.chunk.js.map",
     "runtime-main.js": "/iCart/static/js/runtime-main.ec76a3f3.js",
     "runtime-main.js.map": "/iCart/static/js/runtime-main.ec76a3f3.js.map",
     "static/js/2.452401c8.chunk.js": "/iCart/static/js/2.452401c8.chunk.js",
     "static/js/2.452401c8.chunk.js.map": "/iCart/static/js/2.452401c8.chunk.js.map",
     "index.html": "/iCart/index.html",
-    "precache-manifest.60d0443f254bea93aba086a61f872417.js": "/iCart/precache-manifest.60d0443f254bea93aba086a61f872417.js",
+    "precache-manifest.aa4baceefa8136abeb03eb0139f4f155.js": "/iCart/precache-manifest.aa4baceefa8136abeb03eb0139f4f155.js",
     "service-worker.js": "/iCart/service-worker.js",
-    "static/css/main.9f9c4cf5.chunk.css.map": "/iCart/static/css/main.9f9c4cf5.chunk.css.map",
+    "static/css/main.f6c1ff45.chunk.css.map": "/iCart/static/css/main.f6c1ff45.chunk.css.map",
     "static/js/2.452401c8.chunk.js.LICENSE.txt": "/iCart/static/js/2.452401c8.chunk.js.LICENSE.txt",
     "static/media/index.css": "/iCart/static/media/IRANSansWeb(FaNum)_UltraLight.f4aa344c.woff2",
     "static/media/credit-card-svgrepo-com(0).svg": "/iCart/static/media/credit-card-svgrepo-com(0).675f79cc.svg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.ec76a3f3.js",
     "static/js/2.452401c8.chunk.js",
-    "static/css/main.9f9c4cf5.chunk.css",
-    "static/js/main.c66b8163.chunk.js"
+    "static/css/main.f6c1ff45.chunk.css",
+    "static/js/main.a8e7c991.chunk.js"
   ]
 }

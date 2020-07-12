@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/iCart/static/css/main.db3b81ac.chunk.css",
+    "main.css": "/iCart/static/css/main.7932a4ff.chunk.css",
     "main.js": "/iCart/static/js/main.46cd72bd.chunk.js",
     "main.js.map": "/iCart/static/js/main.46cd72bd.chunk.js.map",
     "runtime-main.js": "/iCart/static/js/runtime-main.ec76a3f3.js",
@@ -9,10 +9,10 @@
     "static/js/2.f86e4b10.chunk.js": "/iCart/static/js/2.f86e4b10.chunk.js",
     "static/js/2.f86e4b10.chunk.js.map": "/iCart/static/js/2.f86e4b10.chunk.js.map",
     "index.html": "/iCart/index.html",
-    "precache-manifest.d01580cc44f96c52f4f22e4e03cb0636.js": "/iCart/precache-manifest.d01580cc44f96c52f4f22e4e03cb0636.js",
+    "precache-manifest.e73efac934e9cfae1b85f260e70242c6.js": "/iCart/precache-manifest.e73efac934e9cfae1b85f260e70242c6.js",
     "service-worker.js": "/iCart/service-worker.js",
     "static/css/2.0e35a45d.chunk.css.map": "/iCart/static/css/2.0e35a45d.chunk.css.map",
-    "static/css/main.db3b81ac.chunk.css.map": "/iCart/static/css/main.db3b81ac.chunk.css.map",
+    "static/css/main.7932a4ff.chunk.css.map": "/iCart/static/css/main.7932a4ff.chunk.css.map",
     "static/js/2.f86e4b10.chunk.js.LICENSE.txt": "/iCart/static/js/2.f86e4b10.chunk.js.LICENSE.txt",
     "static/media/index.css": "/iCart/static/media/IRANSansWeb(FaNum)_UltraLight.f4aa344c.woff2",
     "static/media/App.scss": "/iCart/static/media/zw.8b885465.svg",
@@ -33,7 +33,7 @@
     "static/js/runtime-main.ec76a3f3.js",
     "static/css/2.0e35a45d.chunk.css",
     "static/js/2.f86e4b10.chunk.js",
-    "static/css/main.db3b81ac.chunk.css",
+    "static/css/main.7932a4ff.chunk.css",
     "static/js/main.46cd72bd.chunk.js"
   ]
 }

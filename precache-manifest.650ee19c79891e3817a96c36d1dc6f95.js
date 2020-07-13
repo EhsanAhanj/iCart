@@ -1,31 +1,63 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bfa2c1d2663928e8fe7460b357b4219e",
+    "revision": "c294e8a809f1b2a2f9add3af463955ea",
     "url": "/iCart/index.html"
   },
   {
-    "revision": "56718b8a1fc40f1f315a",
-    "url": "/iCart/static/css/2.0e35a45d.chunk.css"
+    "revision": "7978fd794fe2577b34a3",
+    "url": "/iCart/static/css/3.636719e7.chunk.css"
   },
   {
-    "revision": "64550e384995881bcf41",
-    "url": "/iCart/static/css/main.ee5d06b5.chunk.css"
+    "revision": "b4e8600b0af502b8a93d",
+    "url": "/iCart/static/css/4.308d7f52.chunk.css"
   },
   {
-    "revision": "56718b8a1fc40f1f315a",
-    "url": "/iCart/static/js/2.369e7c40.chunk.js"
+    "revision": "fe5523654e32ac725b7b",
+    "url": "/iCart/static/css/5.36231631.chunk.css"
   },
   {
-    "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/iCart/static/js/2.369e7c40.chunk.js.LICENSE.txt"
+    "revision": "489f6a963be6daaaa12c",
+    "url": "/iCart/static/css/6.fad87a06.chunk.css"
   },
   {
-    "revision": "64550e384995881bcf41",
-    "url": "/iCart/static/js/main.d1bfb9d3.chunk.js"
+    "revision": "974064fd7e33a61266c1",
+    "url": "/iCart/static/css/main.a40f81f9.chunk.css"
   },
   {
-    "revision": "a9d182ae2d47208022a1",
-    "url": "/iCart/static/js/runtime-main.ec76a3f3.js"
+    "revision": "f0b8d13db3b9d6b19de7",
+    "url": "/iCart/static/js/2.54090cc3.chunk.js"
+  },
+  {
+    "revision": "81896c98bac7b5b16ab1d3790da5b937",
+    "url": "/iCart/static/js/2.54090cc3.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "7978fd794fe2577b34a3",
+    "url": "/iCart/static/js/3.5769957e.chunk.js"
+  },
+  {
+    "revision": "b4e8600b0af502b8a93d",
+    "url": "/iCart/static/js/4.a9484e3b.chunk.js"
+  },
+  {
+    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
+    "url": "/iCart/static/js/4.a9484e3b.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "fe5523654e32ac725b7b",
+    "url": "/iCart/static/js/5.c10b6145.chunk.js"
+  },
+  {
+    "revision": "489f6a963be6daaaa12c",
+    "url": "/iCart/static/js/6.d294bea7.chunk.js"
+  },
+  {
+    "revision": "974064fd7e33a61266c1",
+    "url": "/iCart/static/js/main.baea7b92.chunk.js"
+  },
+  {
+    "revision": "081c34418f1029ae3775",
+    "url": "/iCart/static/js/runtime-main.97bb1edf.js"
   },
   {
     "revision": "5d86e75ed549612bd40352e5f50b3f1b",

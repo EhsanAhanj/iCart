@@ -1,5 +1,8 @@
 import React from "react";
 
+import LoginModal from "../Modals/LoginModal";
+import RegisterModal from "../Modals/RegisterModal";
+
 import "./Welcome.css";
 
 import CartSvg0 from "../../assets/images/credit-card-svgrepo-com(0).svg";
@@ -16,11 +19,11 @@ import CartSvg9 from "../../assets/images/credit-card-svgrepo-com(9).svg";
 const Welcome = ({ element }) => {
   return (
     <main>
-      <div className="context">
-        <h1>کانتنت مهم اینجا </h1>
-        <h1>ورود </h1>
+      <div className="welcome-context">
+        <h1>وارد شوید</h1>
+        <LoginModal buttonLabel="ورود به ناحیه کاربری" />
+        <RegisterModal buttonLabel="عضویت" />
       </div>
-
       <div ref={element} className="area">
         <ul className="circles">
           <li>

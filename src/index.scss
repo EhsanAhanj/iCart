@@ -1,5 +1,8 @@
 @import url("assets/fonts/fontIran.css");
-
+$color-temp1: #ea907a;
+$color-temp2: #fbc687;
+$color-temp3: #f4f7c5;
+$color-temp4: #aacdbe;
 * {
   margin: 0;
   padding: 0;
@@ -7,25 +10,22 @@
 }
 
 body {
-  font-family: IRANSans;
-  color: #fff;
+  font-family: IRANSans !important;
+  color: rgb(27, 27, 27) !important;
   font-size: 1rem;
-}
-.context {
-  width: 100%;
+  height: 100vh;
+  width: 100vw;
   position: absolute;
-  top: 50vh;
-}
-
-.context h1 {
-  text-align: center;
-  color: #fff;
-  font-size: 50px;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow-x: hidden;
 }
 
 .area {
-  background: #4e54c8;
-  background: -webkit-linear-gradient(to left, #8f94fb, #4e54c8);
+  // background: #ea907a;
+  background-image: linear-gradient(#ea907a, #fbc687);
   width: 100%;
   height: 100vh;
 }

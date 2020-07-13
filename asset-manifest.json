@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/iCart/static/css/main.f7361879.chunk.css",
-    "main.js": "/iCart/static/js/main.1ccaa642.chunk.js",
-    "main.js.map": "/iCart/static/js/main.1ccaa642.chunk.js.map",
+    "main.css": "/iCart/static/css/main.3487b4b6.chunk.css",
+    "main.js": "/iCart/static/js/main.d1bfb9d3.chunk.js",
+    "main.js.map": "/iCart/static/js/main.d1bfb9d3.chunk.js.map",
     "runtime-main.js": "/iCart/static/js/runtime-main.ec76a3f3.js",
     "runtime-main.js.map": "/iCart/static/js/runtime-main.ec76a3f3.js.map",
     "static/css/2.0e35a45d.chunk.css": "/iCart/static/css/2.0e35a45d.chunk.css",
     "static/js/2.369e7c40.chunk.js": "/iCart/static/js/2.369e7c40.chunk.js",
     "static/js/2.369e7c40.chunk.js.map": "/iCart/static/js/2.369e7c40.chunk.js.map",
     "index.html": "/iCart/index.html",
-    "precache-manifest.b4f85fff79a9d927f6173cb7852a1ad9.js": "/iCart/precache-manifest.b4f85fff79a9d927f6173cb7852a1ad9.js",
+    "precache-manifest.8ece95859792b2fd4ce355837d28cc24.js": "/iCart/precache-manifest.8ece95859792b2fd4ce355837d28cc24.js",
     "service-worker.js": "/iCart/service-worker.js",
     "static/css/2.0e35a45d.chunk.css.map": "/iCart/static/css/2.0e35a45d.chunk.css.map",
-    "static/css/main.f7361879.chunk.css.map": "/iCart/static/css/main.f7361879.chunk.css.map",
+    "static/css/main.3487b4b6.chunk.css.map": "/iCart/static/css/main.3487b4b6.chunk.css.map",
     "static/js/2.369e7c40.chunk.js.LICENSE.txt": "/iCart/static/js/2.369e7c40.chunk.js.LICENSE.txt",
     "static/media/index.css": "/iCart/static/media/IRANSansWeb(FaNum)_UltraLight.f4aa344c.woff2",
     "static/media/App.scss": "/iCart/static/media/zw.8b885465.svg",
@@ -26,10 +26,10 @@
     "static/media/credit-card-svgrepo-com(7).svg": "/iCart/static/media/credit-card-svgrepo-com(7).cd34c4eb.svg",
     "static/media/credit-card-svgrepo-com(8).svg": "/iCart/static/media/credit-card-svgrepo-com(8).87a0a70a.svg",
     "static/media/credit-card-svgrepo-com(9).svg": "/iCart/static/media/credit-card-svgrepo-com(9).b94ca2fe.svg",
-    "static/media/cut.svg": "/iCart/static/media/cut.fd38329c.svg",
+    "static/media/cut.svg": "/iCart/static/media/cut.70704cb9.svg",
     "static/media/logosolo.svg": "/iCart/static/media/logosolo.0db5b1c1.svg",
     "static/media/nav2.svg": "/iCart/static/media/nav2.5e120a6f.svg",
-    "static/media/shadow1.svg": "/iCart/static/media/shadow1.69aabf19.svg",
+    "static/media/shadow1.svg": "/iCart/static/media/shadow1.feaeb9d8.svg",
     "static/media/shadowcut2.svg": "/iCart/static/media/shadowcut2.c0dc3eb7.svg",
     "static/media/textlogo.svg": "/iCart/static/media/textlogo.6bca66a6.svg"
   },
@@ -37,7 +37,7 @@
     "static/js/runtime-main.ec76a3f3.js",
     "static/css/2.0e35a45d.chunk.css",
     "static/js/2.369e7c40.chunk.js",
-    "static/css/main.f7361879.chunk.css",
-    "static/js/main.1ccaa642.chunk.js"
+    "static/css/main.3487b4b6.chunk.css",
+    "static/js/main.d1bfb9d3.chunk.js"
   ]
 }

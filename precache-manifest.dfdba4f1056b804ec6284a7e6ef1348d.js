@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f235ca041ecda7226543f389724920f",
+    "revision": "dec9c96d3da297350e83cd4148c8ab0a",
     "url": "/iCart/index.html"
   },
   {
-    "revision": "2e81fdf28f8c1ea475d0",
+    "revision": "f6604dfcfb8964de781e",
     "url": "/iCart/static/css/3.a5f3c66a.chunk.css"
   },
   {
@@ -12,28 +12,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iCart/static/css/4.308d7f52.chunk.css"
   },
   {
-    "revision": "819abdfde16a12eac602",
-    "url": "/iCart/static/css/5.5d9dcf9b.chunk.css"
+    "revision": "b91a98760efec58fa73c",
+    "url": "/iCart/static/css/5.8adaa6ac.chunk.css"
   },
   {
-    "revision": "489f6a963be6daaaa12c",
+    "revision": "0036ee32425ba8b327ea",
     "url": "/iCart/static/css/6.fad87a06.chunk.css"
   },
   {
-    "revision": "2fd03247118fc44be5fd",
+    "revision": "f852c076402f660b4f63",
     "url": "/iCart/static/css/main.1f296c40.chunk.css"
   },
   {
-    "revision": "f0b8d13db3b9d6b19de7",
-    "url": "/iCart/static/js/2.54090cc3.chunk.js"
+    "revision": "5b13673eda1e58f9735d",
+    "url": "/iCart/static/js/2.3b855fd4.chunk.js"
   },
   {
     "revision": "81896c98bac7b5b16ab1d3790da5b937",
-    "url": "/iCart/static/js/2.54090cc3.chunk.js.LICENSE.txt"
+    "url": "/iCart/static/js/2.3b855fd4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e81fdf28f8c1ea475d0",
-    "url": "/iCart/static/js/3.5769957e.chunk.js"
+    "revision": "f6604dfcfb8964de781e",
+    "url": "/iCart/static/js/3.b2a15eaa.chunk.js"
   },
   {
     "revision": "b4e8600b0af502b8a93d",
@@ -44,20 +44,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iCart/static/js/4.a9484e3b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "819abdfde16a12eac602",
-    "url": "/iCart/static/js/5.c10b6145.chunk.js"
+    "revision": "b91a98760efec58fa73c",
+    "url": "/iCart/static/js/5.ec22ef0a.chunk.js"
   },
   {
-    "revision": "489f6a963be6daaaa12c",
-    "url": "/iCart/static/js/6.d294bea7.chunk.js"
+    "revision": "0036ee32425ba8b327ea",
+    "url": "/iCart/static/js/6.9a35e88d.chunk.js"
   },
   {
-    "revision": "2fd03247118fc44be5fd",
-    "url": "/iCart/static/js/main.5cd0c5de.chunk.js"
+    "revision": "f852c076402f660b4f63",
+    "url": "/iCart/static/js/main.eb8a695d.chunk.js"
   },
   {
-    "revision": "4ceaf88b979c5285ad54",
-    "url": "/iCart/static/js/runtime-main.94cb4602.js"
+    "revision": "73c86a8f12d15af5cc09",
+    "url": "/iCart/static/js/runtime-main.d7933839.js"
   },
   {
     "revision": "5d86e75ed549612bd40352e5f50b3f1b",
